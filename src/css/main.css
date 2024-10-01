@@ -200,3 +200,11 @@ body {
 }
 /*# sourceMappingURL=main.css.map */
 /*07.10.2024 change fit scale design in the Header*/
+
+
+@media screen and (max-width: 480px){
+.wrapper{
+  padding: 0 !important;
+}
+  
+}
