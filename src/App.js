@@ -11,15 +11,15 @@ function App() {
   //Instance ID
   let InstanceId_Widget = "876627";
   let InstanceId_QA = "";
-  let InstanceId_SEO = "";
-  let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "";
+  let InstanceId_SEO = "877045";
+  let InstanceId_Carousel = "877046";
+  let InstanceId_StarRating = "876866";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
-  let InstanceId_ReviewsTab = "";
+  let InstanceId_ReviewsTab = "877042";
 
   //Product ID
-  let ProductId = "";
+  let ProductId = "8058375569587";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
