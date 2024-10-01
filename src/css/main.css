@@ -15,7 +15,9 @@
   image-rendering: -webkit-optimize-contrast;
   scroll-behavior: smooth;
 }
-
+a{
+  text-decoration: none;
+}
 body {
   background-color: var(--generic-template-background) !important;
 }
